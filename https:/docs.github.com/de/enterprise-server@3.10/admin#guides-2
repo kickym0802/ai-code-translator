@@ -1,0 +1,87 @@
+Erste Schritte mit GitHub Actions für GitHub Enterprise Server
+Hier erfährst du mehr über das erstmalige Aktivieren und Konfigurieren von GitHub Actions für GitHub Enterprise Server.
+
+@GitHub
+Erste Schritte mit GitHub-Paketen für dein Unternehmen
+Du kannst mit der Nutzung von GitHub Packages auf deine GitHub Enterprise Server-Instanz beginnen, indem du das Feature aktivierst, den Drittanbieterspeicher konfigurierst, die Ökosysteme konfigurierst, die du unterstützen möchtest, und dein TLS-Zertifikat aktualisierst.
+
+@GitHub
+Verwalten von GitHub Advanced Security für dein Unternehmen
+Du kannst Advanced Security konfigurieren und die Nutzung durch dein Unternehmen an die Bedürfnisse deiner Organisation anpassen.
+
+@GitHub
+Alle Unternehmensadministratoren-Dokumentationen
+Übersicht
+
+Informationen zu GitHub für Unternehmen
+Informationen zu GitHub Enterprise Server
+Informationen zu Upgrades auf neue Releases
+Informationen zu Enterprise-Konten
+Systemübersicht
+Informationen zur GitHub Enterprise-API
+Bewährte Methoden für Unternehmen
+Installieren von GitHub Enterprise
+
+GitHub Enterprise Server-Instanz einrichten • 7 articles
+Konfigurieren von GitHub Enterprise
+
+Konfigurieren von Benutzeranwendungen für dein Unternehmen • 7 articles
+Verstärken der Sicherheit für dein Unternehmen • 7 articles
+Konfigurieren von Netzwerkeinstellungen • 10 articles
+Konfigurieren von GitHub Connect • 7 articles
+Verwalten deiner Instanz
+
+Verwalten Ihrer Instanz über die Web-Benutzeroberfläche • 5 articles
+Verwalten Ihrer Instanz über die Befehlszeile • 2 articles
+Konfigurieren des Wartungsmodus • 1 articles
+Identitäts- und Zugriffsverwaltung
+
+Verwalten von IAM für dein Unternehmen • 5 articles
+Integrierte Authentifizierung verwenden • 3 articles
+Verwenden von CAS for enterprise IAM • 1 articles
+Verwenden von LDAP for Enterprise IAM • 1 articles
+Verwenden von SAML for Enterprise IAM • 8 articles
+Verwalten von Konten und Repositorys
+
+Mitteilen von Informationen an Benutzer*innen in deinem Unternehmen • 2 articles
+Verwalten von Benutzer*innen in deinem Unternehmen • 12 articles
+Organisationen in deinem Unternehmen verwalten • 8 articles
+Verwalten von Repositorys in deinem Unternehmen • 6 articles
+Sichern und Wiederherstellen deiner Instanz
+
+Konfigurieren von Sicherungen auf einer Instanz
+Festlegen von Richtlinien für dein Unternehmen
+
+Erzwingen von Richtlinien für dein Unternehmen • 9 articles
+Erzwingen einer Richtlinie mit Pre-Receive-Hooks • 4 articles
+Überwachen von Aktivitäten in deinem Unternehmen
+
+Überprüfen von Überwachungsprotokollen für dein Unternehmen • 8 articles
+Erkunden von Benutzeraktivitäten in deinem Unternehmen • 4 articles
+Analysieren, wie dein Team mit Serverstatistiken arbeitet • 3 articles
+Überwachen, Verwalten und Aktualisieren der Instanz
+
+Überwachen Ihrer Instanz • 8 articles
+Virtuelle Maschine und physische Ressourcen aktualisieren • 7 articles
+Konfigurieren des Clusterings • 13 articles
+Konfigurieren von Hochverfügbarkeit • 7 articles
+Zwischenspeichern von Repositorys • 2 articles
+Verwalten von GitHub Actions für dein Unternehmen
+
+Erste Schritte mit GitHub Actions für dein Unternehmen • 5 articles
+Aktivieren von GitHub Actions für GitHub Enterprise Server • 5 articles
+Verwalten des Zugriffs auf Aktionen in GitHub.com • 5 articles
+Erweiterte Konfiguration und Problembehandlung • 4 articles
+Verwalten von GitHub-Paketen für dein Unternehmen
+
+Erste Schritte mit GitHub-Paketen für dein Unternehmen
+Aktivieren von GitHub-Paketen mit AWS
+Aktivieren von GitHub Packages mit Azure Blob Storage
+Aktivieren von GitHub-Paketen mit MinIO
+Schnellstart zum Konfigurieren deines MinIO-Speicherbuckets für GitHub Packages
+Konfigurieren der Paketökosystemunterstützung für dein Unternehmen
+Migrieren deines Unternehmens von der Docker-Registrierung zur Containerregistrierung
+Verwalten der Codesicherheit für dein Unternehmen
+
+Verwalten von GitHub Advanced Security für dein Unternehmen • 5 articles
+Verwalten der Lieferkettensicherheit für dein Unternehmen • 4 articles
